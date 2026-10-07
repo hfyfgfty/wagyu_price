@@ -57,3 +57,16 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4列にする */
+  gap: 20px; /* カードの間隔 */
+  margin-bottom: 40px; /* 段の間隔 */
+}
+
+.card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
