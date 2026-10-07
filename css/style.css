@@ -70,3 +70,8 @@ footer {
   text-decoration: none;
   color: inherit;
 }
+
+/* 以下のスタイルを追加 */
+.card {
+  border-radius: 0;
+}
