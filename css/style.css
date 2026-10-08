@@ -76,3 +76,10 @@ footer {
   border-radius: 0;
 }
 /* diff test*/
+
+.submit-color {
+  background-color: #17a2b8; /* 青系の色 */
+  color: #fff;              /* 文字色を白に */
+  border-color: #17a2b8;    /* 枠線も同じ色に */
+}
+
